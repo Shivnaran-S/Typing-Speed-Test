@@ -1,1 +1,2 @@
-# Typing-Speed-Test
+Type Pulse
+This project is a typing test console based application implemented in C. Users input their name, then proceed to type a randomly selected passage which is displayed character by character. The program indicates correct input in green and errors in red. Upon completion, it calculates typing speed (words per minute), accuracy, and error count. Results are saved in a file along with user details. 
